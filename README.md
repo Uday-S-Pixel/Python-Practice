@@ -10,10 +10,6 @@ The main goal of this repository is to:
 * Practice concepts through implementation
 * Maintain consistency in coding
 
-## ⚠️ Note
-
-* This repository does **not include very basic beginner problems**
-* It mainly focuses on problems that require **thinking and logic building**
 
 ## 🧠 Language Preference
 
